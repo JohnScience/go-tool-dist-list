@@ -1,10 +1,10 @@
 [package]
 name = "go-tool-dist-list"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Dmitrii Demenev <demenev.dmitriy1@gmail.com>"]
 edition = "2021"
 rust-version = "1.56.1" # https://github.com/foresterre/cargo-msrv/issues/244
-description = "Get the list of targets supported by rustc."
+description = "Get the list of targets supported by go compiler."
 documentation = "https://docs.rs/go-tool-dist-list"
 readme = "README.md"
 repository = "https://github.com/JohnScience/go-tool-dist-list"
